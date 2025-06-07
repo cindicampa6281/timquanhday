@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab879db6.css",
+    "main.js": "/static/js/main.29777415.js",
+    "static/js/453.abd36b29.chunk.js": "/static/js/453.abd36b29.chunk.js",
+    "static/media/bg3.jpg": "/static/media/bg3.124d42b2cd0776591cbb.jpg",
+    "static/media/Background.png": "/static/media/Background.e8dc964fc6f3206615d0.png",
+    "static/media/avatar-default.jpg": "/static/media/avatar-default.6340245e2c101af782ec.jpg",
+    "static/media/background.jpg": "/static/media/background.5251301dba4d45a9ba4c.jpg",
+    "static/media/bg-profile.png": "/static/media/bg-profile.c7daa40405ca1d2b91ac.png",
+    "static/media/btnHaha.png": "/static/media/btnHaha.c8d5979d13d67be43e78.png",
+    "static/media/btnSad.png": "/static/media/btnSad.d4bf96d9859ae6cb64ea.png",
+    "static/media/chplay.png": "/static/media/chplay.e1a59e216b37c7228663.png",
+    "static/media/appstore.png": "/static/media/appstore.1df8f0d903770f077872.png",
+    "static/media/fraction.cjs": "/static/media/fraction.7992481f3d8339b77604.cjs",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/index.html",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/favicon.ico": "/static/media/favicon.b7ee1fe34b947e490281.ico",
+    "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.ab879db6.css.map": "/static/css/main.ab879db6.css.map",
+    "main.29777415.js.map": "/static/js/main.29777415.js.map",
+    "453.abd36b29.chunk.js.map": "/static/js/453.abd36b29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab879db6.css",
+    "static/js/main.29777415.js"
+  ]
+}
